@@ -1,0 +1,6 @@
+go mod init github.com/user/repo-name (create go.mod)
+go build (build executable)
+go run . (run the code)
+go ./module-name (execute the binary file)
+go mod tidy (clean up go.mod)
+go mod vendor (create local go.mod, like node_modules)
